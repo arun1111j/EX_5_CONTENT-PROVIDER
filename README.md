@@ -1,7 +1,7 @@
 
 # Ex.No:5 Create Your Own Content Providers to get Contacts details.
 
-
+## DATE: 25/03/2025
 ## AIM:
 
 To create your own content providers to get contacts details using Android Studio.
